@@ -23,7 +23,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={godzz733})](https://solved.ac/{godzz733})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=godzz733)](https://solved.ac/godzz733)
 
 <!--
 **godzz733/godzz733** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
